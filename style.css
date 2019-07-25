@@ -1,0 +1,46 @@
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    top: 100px;
+    position: relative;
+}
+.search_bar{
+    position: relative;
+    top: 70px;
+    text-align:center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+  }
+  .navbar{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .button{
+    
+  }
+  button{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 20px;
+    color: blue;
+    width: 130px;
+    height: 30px;
+    font-size: 15px;
+    background-color: white;
+  }
+  .pencil{
+    width: 25px;
+    height: 25px;
+    position: relative;
+    right: 5px;
+  }
